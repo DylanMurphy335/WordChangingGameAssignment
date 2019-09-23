@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1553717919 source:/Users/dylanmurphy/Desktop/college/Y2/s2/c_programming/workspace/Assignment1/word_game.c
+	"word_game.h"
+	"string.h"
+
+1553716806 source:/Users/dylanmurphy/Desktop/college/Y2/s2/c_programming/workspace/Assignment1/main.c
+	"word_game.h"
+
+1553717381 /Users/dylanmurphy/Desktop/college/Y2/s2/c_programming/workspace/Assignment1/word_game.h
+	<stdio.h>
+
